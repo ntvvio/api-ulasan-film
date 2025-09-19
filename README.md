@@ -17,3 +17,6 @@ Studio Ghibli API adalah API publik yang menyediakan data tentang film-film anim
 4. Jalankan server: ‘node server.js‘
 Server akan berjalan di ‘http://localhost:3300‘.
 5. Terus bisa diedit di postman
+
+## Daftar Endpoint
+1. GET/ ghibli https://ghibliapi.dev/films : cek list film ghibli
