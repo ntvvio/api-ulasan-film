@@ -21,8 +21,9 @@ Server akan berjalan di ‘http://localhost:3300‘.
 ## Daftar Endpoint
 1. GET/ ghibli https://ghibliapi.dev/films : cek list film ghibli
 2. Get/ Review by ID (id=1) http://localhost:3300/reviews/1 : mengambil ulasan spesifik dari id 1
-3. POST/ review http://localhost:3300/reviews : menambahkan ulasan film
+3. GET/ review id 2 http://localhost:3300/reviews/2 : mengambil ulasan spesifik dari id 2
 4. GET/ Review by ID (id=3) http://localhost:3300/reviews/3 : mengambil ulasan spesifik film dari id 3
 5. GET/ status http://localhost:3300/status : mengambil ulasan bahwa api berjalan dengan baik
 6. GET/ Semua rivew http://localhost:3300/reviews : mengambil ulasan film
-
+7. POST/ review vio http://localhost:3300/reviews : untuk menambahkan ulasan film
+8. PUT/ id 3 http://localhost:3300/reviews/3 : untuk mengedit data id 3
