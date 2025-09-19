@@ -22,3 +22,4 @@ Server akan berjalan di ‘http://localhost:3300‘.
 1. GET/ ghibli https://ghibliapi.dev/films : cek list film ghibli
 2. Get/ Review by ID (id=1) http://localhost:3300/reviews/1 : mengambil ulasan spesifik dari id 1
 3. POST/ review http://localhost:3300/reviews : menambahkan ulasan film
+4. GET/ Review by ID (id=3) http://localhost:3300/reviews/3 : mengambil ulasan spesifik film dari id 3
