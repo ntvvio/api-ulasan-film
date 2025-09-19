@@ -24,4 +24,5 @@ Server akan berjalan di ‘http://localhost:3300‘.
 3. POST/ review http://localhost:3300/reviews : menambahkan ulasan film
 4. GET/ Review by ID (id=3) http://localhost:3300/reviews/3 : mengambil ulasan spesifik film dari id 3
 5. GET/ status http://localhost:3300/status : mengambil ulasan bahwa api berjalan dengan baik
+6. GET/ Semua rivew http://localhost:3300/reviews : mengambil ulasan film
 
