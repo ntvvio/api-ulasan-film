@@ -27,3 +27,5 @@ Server akan berjalan di ‘http://localhost:3300‘.
 6. GET/ Semua rivew http://localhost:3300/reviews : mengambil ulasan film
 7. POST/ review vio http://localhost:3300/reviews : untuk menambahkan ulasan film
 8. PUT/ id 3 http://localhost:3300/reviews/3 : untuk mengedit data id 3
+9. POSH/ buat review baru http://localhost:3300/reviews : untuk menambah ulasan film
+10. DELETE/ hapus Review (id=2) http://localhost:3300/reviews/2 : untuk menghapus review atau ulasan dengan id 2
