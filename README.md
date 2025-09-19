@@ -29,4 +29,4 @@ Server akan berjalan di ‘http://localhost:3300‘.
 8. PUT/ id 3 http://localhost:3300/reviews/3 : untuk mengedit data id 3
 9. POSH/ buat review baru http://localhost:3300/reviews : untuk menambah ulasan film
 10. DELETE/ hapus Review (id=2) http://localhost:3300/reviews/2 : untuk menghapus review atau ulasan dengan id 2
-11. PUT/ Update Review (id=1) http://localhost:3300/reviews/1 : untuk mengupdate id 1 
+11. PUT/ Update Review (id=1) http://localhost:3300/reviews/1 : untuk mengupdate nama di id 1 
